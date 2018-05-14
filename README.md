@@ -6,12 +6,12 @@ Python Skills on Steroids
 <li> Studied Applied Physics, University of Benin </li>
 <li> Highy Motivated <em>anytime</em> of Mobile Web Development, Django and Machine Learning</li>
 <li> Fond of JavaScript, Django, Python and Digital Marketing </li>
-<li> Reach me here ezekielobhafuoso[@]gmail.com</li> 
+<li> Reach me here ezekielobhafuoso[@]gmail.com</li>
 </ul>
 
 <h1> Education</h1>
 <ul>
-<li> <strong>University of Benin </strong>: The strong calculus in Year 3 paid off - Big Time! Makes Machine Learning Statistics, Calculus a walk over <em>kind off</em>.</li>
+<li> <strong>University of Benin </strong>: The strong calculus in Year 3 paid off - Big Time! Makes Machine Learning Statistics, Calculus a walk over - <em>kind off</em>.</li>
 </ul>
 
 <h1> More?</h1>
@@ -25,4 +25,3 @@ Python Skills on Steroids
 <li> <strong>Twitter</strong>: The Mobile App is awesome. Follow relevant experts and topics, and you <em>almost</em> never miss new technology</li>
 <li> <strong>Stackoverflow</strong>: kisses, kisses, kisses. That site is the boom! </li>
 </ul>
-
